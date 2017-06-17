@@ -1,6 +1,8 @@
 # 👻 Wumpus
 
-<center><img src="./wumpus.png"></center>
+<p align="center">
+  <img src="./wumpus.png">
+</p>
 
 > `Hunt the Wumpus` is a video game, based on a simple hide and seek format featuring a mysterious monster (the Wumpus) that lurks deep inside a network of rooms.
 
